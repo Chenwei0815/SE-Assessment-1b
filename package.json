@@ -21,10 +21,3 @@
   },
   "homepage": "https://github.com/Chenwei0815/SE-Assessment-1b#readme"
 }
-
-"publishConfig": { "registry": "https://npm.pkg.github.com/" }
-
-$ npm login --registry=https://npm.pkg.github.com/
-
-
-$ npm publish
