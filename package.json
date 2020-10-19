@@ -22,4 +22,8 @@
   "ejs": "^2.5.6",
   "express": "^4.15.2"
   }
+  "bugs": {
+    "url": "https://github.com/Chenwei0815/SE-Assessment-1b/issues"
+  },
+  "homepage": "https://github.com/Chenwei0815/SE-Assessment-1b#readme"
 }
