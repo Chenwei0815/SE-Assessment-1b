@@ -1,14 +1,18 @@
 {
-  "name": "SE-Assessment-1b",
+  "name": "lenovo",
   "version": "1.0.0",
-  "description": "A database of SEER",
+  "description": "About SEER\r include serach essay",
   "main": "index.js",
   "engines": {
     "node": "12.18.3"
   },
   "scripts": {
-    "start": "node index.js
-    
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
   },
   "repository": {
     "type": "git",
@@ -16,7 +20,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC", 
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Chenwei0815/SE-Assessment-1b/issues"
   },
